@@ -1,0 +1,157 @@
+body{
+  font-family: 'ubuntu',calibri;
+}
+nav {
+  float: left;
+  width: 15%;
+  height: 620px;
+  background: #232523;
+  padding: 20px;
+}
+/*.tab{
+  float: left;
+  background-color: red;
+  width: 0%;
+
+}*/
+
+.tab {
+  background-color: #f1f1f1;
+  margin-left: -70px;
+  margin-right: -180px;
+  width: 120%;
+  height: 5px;
+}
+.tab li{
+  display: block;
+  background-color: #232523;
+  color: white;
+  margin-left: 10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 40px;
+  padding-right: -10px;
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  font-size: 16px;
+}
+.tab li:hover {
+  background-color: #4ADA80;
+  color: black;
+}
+
+.ddu{
+  color: white;
+  font-size: 130%;
+  margin-left: 60px;
+  font-weight: 800;
+}
+ul{
+  list-style-type: none;
+}
+a{
+text-decoration: none;
+color: white;
+}
+a:hover{
+  color: #4ADA80;
+}
+.input-icons {
+            width: 100%;
+            margin-bottom: 10px;
+        }
+input[type=button]{
+  cursor: pointer;
+  font-size: 100%;
+  background-color: white;
+  margin-left: 5px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border:none;
+  border-radius: 5em;
+}
+input[type=button]:hover{
+  background-color:  #4ADA80;
+  color: white;
+}
+.left{
+  margin-left: 750px;
+}
+
+.select1{
+  text-align: center;
+  cursor: pointer;
+  font-size: 100%;
+  background-color: #4ADA80;
+  color: white;
+  margin-left: 15px;
+  margin-right: 35px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 3px;
+}
+.hide{
+  padding-right: 450px;
+  border:none;
+  background-color: white;
+}
+.hide1{
+  padding-right: 650px;
+  border:none;
+  background-color: white;
+}
+.quick{
+  margin-left: 280px;
+  font-size: 20px;
+  font-weight: bold;
+}
+input[type=reset]{
+  font-size: 15px;
+  color:#808080;
+  background-color: white;
+  margin-left: 40px;
+  padding-left: 80px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 100px;
+  border:1px solid #cccccc;
+  border-radius: 3px;
+}
+input[type=search]{
+  margin-left: 38px;
+  margin-top: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border:1px solid #cccccc;
+  border-radius: 3px;
+}
+.select{
+  font-weight: bold;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 7px;
+}
+table{
+  position: relative;
+  border:1px solid #cccccc;
+  border-radius: 5px;
+  outline:1;
+}
+th,td{
+  margin-left:58px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+  padding-right: 70px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+}
+th{
+  background-color: #f2f2f2;
+}
