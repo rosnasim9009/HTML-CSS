@@ -1,0 +1,140 @@
+body{
+  background-image: url("bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: helvetica;
+}
+.apex{
+  margin-left: 160px;
+  margin-top: 10px;
+}
+.head1{
+  margin-top: -9px;
+  margin-left: 160px;
+  font-size: 35px;
+  font-weight: 700;
+}
+.para1{
+  margin-left: 160px;
+  margin-top: -30px;
+  font-size: 17px;
+  line-height: 1.5;
+  font-weight: 500;
+}
+.apply{
+  font-size: 16px;
+  margin-left: 624px;
+  margin-top: -60px;
+  padding: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: white;
+  border: 1px solid #ff3300;
+  background-color: #ff3300;
+}
+.para2{
+    margin-left: 952px;
+    margin-right: 20px;
+    margin-top: -59px;
+    font-size: 15px;
+    line-height: 1.5;
+    font-weight: 600;
+}
+.main{
+    font-weight: 500;
+    margin-top: 194px;
+    margin-left: 160px;
+    line-height: 1.5;
+    font-size: 15px;
+}
+h4{
+  margin-left: 160px;
+
+}
+table{
+  margin-left: 160px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th.t1{
+  background-color: #ff3300;
+  color: white;
+}
+td,th{
+    padding-top: 6px;
+    text-align: center;
+    border-style: double;
+    border-width: thin;
+    border-color: black;
+    padding-bottom: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.t1{
+  border: 1px solid black;
+}
+.t2{
+  padding-right: 10px;
+}
+th.t2{
+  background-color: white;
+}
+.para3{
+  margin-left: 160px;
+  margin-top: -30px;
+  color: #7c7c50;
+  font-size: 17px;
+  line-height: 1.5;
+  font-weight: 500;
+}
+iframe{
+      float: left;
+      margin-left: 160px;
+      width: 40%;
+      border: 1px;
+      height: 325px;
+      border-radius: 7px;
+}
+.address{
+    float: left;
+    margin-left: 34px;
+    margin-top: -16px;
+}
+.elig{
+  margin-left: 160px;
+  float: left;
+}
+.face{
+  padding-top: 145px;
+  margin-left: 160px;
+}
+.field4{
+  border: none;
+  margin-left: 960px;
+  margin-top: -50px;
+  margin-right: 180px;
+}
+a{
+  text-decoration: none;
+  color: #5c5c3d;
+  font-size: 14px;
+  line-height: 2.5;
+  font-weight: 550;
+}
+.field5{
+  border: none;
+  margin-left: 1160px;
+  margin-top: -226px;
+  margin-right: 0px;
+}
+.foot{
+  margin-bottom: -345px;
+  margin-left: 580px;
+  width: auto;
+}
+footer{
+  margin-top: 355px;
+  text-align: center;
+  font-size: 12px;
+  color: #adad85;
+}
